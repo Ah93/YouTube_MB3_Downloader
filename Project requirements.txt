@@ -1,0 +1,7 @@
+Requirements for this program
+*******************************
+
+1- Install latest youtube_dl from this link: https://pypi.org/project/youtube_dl/
+
+2- Install ffmpeg also to let the MB3 work perfectly from this link: https: //ffmpeg.org/download.html 
+or via Chocolatey (if it's already installed in your PC) by typing this command in the cmd: choco install ffmpeg
